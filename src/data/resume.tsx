@@ -101,8 +101,8 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "CareerAI",
-      href: "https://career-ai-spark.vercel.app",
+      title: "Student Analyzer",
+      href: "https://studentanalyzerst.vercel.app/",
       dates: "2023 - 2024",
       active: true,
       description:
@@ -111,12 +111,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://career-ai-spark.vercel.app",
+          href: "https://studentanalyzerst.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/premcharan99/career-ai-spark",
+          href: "https://github.com/premcharan99/AI-JOB-",
           icon: <Icons.github className="size-3" />,
         },
       ],
