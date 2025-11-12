@@ -13,26 +13,24 @@ export const DATA = {
     "I’m a third-year B.Tech Computer Science student at KL University, with a CGPA of 9.6/10, ranking in the top 10% of my 2026 batch. As a freelancer, I’ve built over 10 websites for local vendors and small businesses",
   avatarUrl: "/pc1.png",
   skills: [
-    "Python",
+   
     "Java",
     "SQL",
     "React",
     "Node.js",
     "Spring Boot",
-    "Flask",
+    
     "NLTK",
     "AWS",
-    "Azure",
+    
     "Supabase",
     "MySQL",
     "PostgreSQL",
     "MongoDB",
-    "SQLite",
+    
     "Git",
     "Figma",
-    "Power BI",
-    "Tableau",
-    "Linux",
+   
     "Agile",
     "Scrum",
     "Prompt Engineering",
