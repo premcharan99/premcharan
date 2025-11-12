@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Computer Science student and freelancer skilled in building web applications with Python, Java, and React. Passionate about solving real-world problems and delivering solutions for local businesses.",
   summary:
-    "I’m a third-year B.Tech Computer Science student at KL University, with a CGPA of 9.5/10, ranking in the top 10% of my 2026 batch. As a freelancer, I’ve built over 10 websites for local vendors and small businesses",
+    "I’m a third-year B.Tech Computer Science student at KL University, with a CGPA of 9.6/10, ranking in the top 10% of my 2026 batch. As a freelancer, I’ve built over 10 websites for local vendors and small businesses",
   avatarUrl: "/pc1.png",
   skills: [
     "Python",
@@ -86,8 +86,7 @@ export const DATA = {
       start: "January 2024",
       end: "March 2024",
       description:
-        "Developed Python scripts for data processing and visualization, enabling businesses to interpret complex datasets. Built an OCR tool for text extraction from images, resolving bugs to ensure high accuracy. Collaborated in an Agile team, participating in daily stand-ups and code reviews to deliver quality solutions.",
-    },
+"Designed a clean, user-friendly full-page UI in Figma and developed a responsive frontend for a Machine Learning project, ensuring seamless integration with backend APIs. Collaborated within an Agile team, actively participating in daily stand-ups and code reviews to deliver high-quality, efficient solutions",    },
   ],
   education: [
     {
