@@ -81,7 +81,7 @@ export const DATA = {
       href: "#",
       badges: [],
       location: "Remote",
-      title: "Data Science Intern",
+      title: " Frontend Developer",
       logoUrl: "/eisystem.png",
       start: "January 2024",
       end: "March 2024",
